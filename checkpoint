@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/ozoveheabdulkareem/Desktop/projects/chatbot/model.tflearn"
-all_model_checkpoint_paths: "/Users/ozoveheabdulkareem/Desktop/projects/chatbot/model.tflearn"
+model_checkpoint_path: "/Users/ozoveheabdulkareem/Desktop/chatbotz/model.tflearn"
+all_model_checkpoint_paths: "/Users/ozoveheabdulkareem/Desktop/chatbotz/model.tflearn"

@@ -1,6 +1,6 @@
 {"intents": [
         {"tag": "greeting",
-         "patterns": ["Hi", "how fa", "how fa gee", "how u dey", "big man how fa","how far","hw fa","bro", "How e dey be", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "patterns": ["Hi", "how fa", "how fa gee", "how u dey", "normal, how you dey?", "big man how fa","how far","hw fa","bro", "How e dey be", "Is anyone there?", "Hello", "Good day", "Whats up"],
          "responses": ["I dey bro, which way na", "wetin de sup na", "i dey guy, how e dey be", "good man", "big man ting, wagwan","brotherman, i dey ohh"],
          "context_set": ""
         },
@@ -29,6 +29,12 @@
          "responses": ["We dey sell phones from $399!", "just check the page for any phone wey you go like!", "check the list sha, if you no see anything just buzz me for +2347043659453"],
          "context_set": ""
         },
+
+        {"tag": "laughter",
+        "patterns": ["lol", "lol mad ohh", "this thing na fool", "how dey take make you","nice one"],
+        "responses": ["No reason am, i still dey development stage", "wetin they make you laugh", "na so bro ;-)", "just they use pidgin, i go they learn from am"],
+        "context_set": ""
+       },
         
         {"tag": "hours",
          "patterns": ["when are you guys open", "bro, when you go dey shop","when you dey open", "You dey shop?", "what are your hours", "hours of operation"],
