@@ -1,0 +1,39 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "how fa", "how fa gee", "how u dey", "big man how fa","how far","hw fa","bro", "How e dey be", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["I dey bro, which way na", "wetin de sup na", "i dey guy, how e dey be", "good man", "big man ting, wagwan","brotherman, i dey ohh"],
+         "context_set": ""
+        },
+
+        {"tag": "goodbye",
+         "patterns": ["cya","e go be na", "later tings", "safe bro", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["We go dey buzz bro", "normally", "safe gee", "i appreciate dawg, later"],
+         "context_set": ""
+        },
+
+
+        {"tag": "age",
+         "patterns": ["who i fit ask if i need NBA seal", "how old e be", "how old is sage", "what is your age", "how old are you", "age?"],
+         "responses": ["baba you go ask man gabs be that oh"],
+         "context_set": ""
+        },
+
+        {"tag": "name",
+         "patterns": ["what is your name","wetin be your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me sage.","you fit call me sage", "I'm sage!", "I'm sage aka sage2dope."],
+         "context_set": ""
+        },
+
+        {"tag": "shop",
+         "patterns": ["Id like to buy something", "wetin you dey sell sef", "wetin you dey do","wetin you dey sell", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+         "responses": ["We dey sell phones from $399!", "just check the page for any phone wey you go like!", "check the list sha, if you no see anything just buzz me for +2347043659453"],
+         "context_set": ""
+        },
+        
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "bro, when you go dey shop","when you dey open", "You dey shop?", "what are your hours", "hours of operation"],
+         "responses": ["I dey shop all day bro", "i fit no open on sundays sha, but buzz me make we transact"],
+         "context_set": ""
+        }
+   ]
+}
